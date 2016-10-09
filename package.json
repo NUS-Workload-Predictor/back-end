@@ -1,0 +1,29 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Back end for NUS Workload Predictor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NUS-Workload-Predictor/back-end.git"
+  },
+  "author": "Dd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NUS-Workload-Predictor/back-end/issues"
+  },
+  "homepage": "https://github.com/NUS-Workload-Predictor/back-end#readme",
+  "dependencies": {
+    "babel-core": "^6.17.0",
+    "babel-polyfill": "^6.16.0",
+    "babel-preset-es2015-node6": "^0.3.0",
+    "babel-preset-stage-3": "^6.17.0",
+    "koa": "^2.0.0-alpha.7",
+    "koa-bodyparser": "^2.2.0",
+    "koa-router": "^7.0.1",
+    "mongoose": "^4.6.2"
+  }
+}
