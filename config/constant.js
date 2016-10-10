@@ -1,0 +1,9 @@
+module.exports = Object.freeze({
+  'HTTP_METHOD_GET': 'GET',
+  'HTTP_METHOD_POST': 'POST',
+  'HTTP_METHOD_PUT': 'PUT',
+  'HTTP_METHOD_PATCH': 'PATCH',
+  'HTTP_METHOD_DELETE': 'DELETE',
+  'HTTP_METHOD_HEAD': 'HEAD',
+  'HTTP_METHOD_OPTIONS': 'OPTIONS'
+});
